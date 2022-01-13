@@ -1,6 +1,6 @@
 <script>
 	import Websocket from './websocket.svelte';
-	import Atab from '$lib/atab.svelte';
+
 	import Nested from '$lib/Nested.svelte';
 
 	let current = 'profile';
